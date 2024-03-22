@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there!
 
-<!--
-**abdullahdedeoglu/abdullahdedeoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abdullah Dedeoğlu and welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🎮 I'm a Jr. Game Developer working with Unity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm a final year student studying Computer Engineering at Necmettin Erbakan University.
+
+🕹️ I usually work on demos in various genres to learn Unity, striving to keep my game development skills diverse.
+
+🚀 Currently, I'm working on a 2D top-down rogue-like game. As side projects, I occasionally create small-scale casual game demos to unwind.
+
+🎵 Besides game development, I'm a musician who publishes songs on Spotify.
+
