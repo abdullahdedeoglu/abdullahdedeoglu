@@ -2,7 +2,7 @@
 
 I'm Abdullah Dedeoğlu and welcome to my GitHub profile!
 
-🎮 I'm a Jr. Game Developer working with Unity.
+🎮 I'm a Game Designer and Jr. Game Developer working with Unity.
 
 🎓 I'm a final year student studying Computer Engineering at Necmettin Erbakan University.
 
